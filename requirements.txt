@@ -1,3 +1,5 @@
+python
 pandas
 numpy
 matplotlib
+pillow
