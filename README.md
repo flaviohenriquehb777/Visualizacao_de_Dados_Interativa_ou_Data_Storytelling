@@ -6,7 +6,7 @@ Este projeto demonstra a criação de **visualizações de dados animadas e inte
 
 ## 🚀 Demonstração
 
-Em breve, o GIF final gerado será adicionado aqui, mostrando a animação da adoção de tecnologias emergentes ao longo dos anos.
+Veja a animação resultante do projeto:
 
 <p align="center">
   <img src="media/adocao_tecnologias_emergentes.gif" alt="Animação de Adoção de Tecnologias Emergentes" width="700"/>
